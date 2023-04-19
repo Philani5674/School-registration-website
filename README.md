@@ -78,10 +78,11 @@ This project comes in two parts
 
 ### Some screenshots
 
-![Landing](https://user-images.githubusercontent.com/72506370/147422999-c9f1fdd4-ba52-470f-8f9a-e1c4c958d726.png)
-![Registration Process](https://user-images.githubusercontent.com/72506370/147423028-2228c2b7-110f-4638-a129-a167e129301c.png)
-![Student Portal](https://user-images.githubusercontent.com/72506370/147423054-e42fc809-7fbe-4d47-8a08-e448b60d5eb3.png)
-![payment gateway](https://user-images.githubusercontent.com/72506370/147423196-ebfc88f4-7be9-4aa5-bd2e-5ada9502a2db.png)
+
+![147422999-c9f1fdd4-ba52-470f-8f9a-e1c4c958d726](https://user-images.githubusercontent.com/62145841/233223729-82377402-cb0f-436b-b806-3501b053c837.png)
+![147423028-2228c2b7-110f-4638-a129-a167e129301c](https://user-images.githubusercontent.com/62145841/233223746-af49603c-a06c-4587-9f44-c73e04b8c5ee.png)
+![147423054-e42fc809-7fbe-4d47-8a08-e448b60d5eb3](https://user-images.githubusercontent.com/62145841/233223751-8a0dd4a5-05c2-4e19-b730-195ff20f3601.png)
+![147423133-2dd0a1a7-6973-4464-99b7-948af9258741](https://user-images.githubusercontent.com/62145841/233223760-b479301b-3194-4319-bb52-8bba1af2a42e.png)
 
 
 ##### Admin
