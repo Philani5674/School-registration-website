@@ -89,6 +89,4 @@ This project comes in two parts
 ![dash](https://user-images.githubusercontent.com/72506370/147423133-2dd0a1a7-6973-4464-99b7-948af9258741.png)
 ![students](https://user-images.githubusercontent.com/72506370/147423135-b07e95be-9b57-443a-8877-23b5adb00149.png)
 
-**Checkout [sister project](https://github.com/MpiloNtombela/MajorProject-Admin-FES)**
----
-**Illustrations in this project are provided with ❤ by [storyset](https://storyset.com/)**
+
