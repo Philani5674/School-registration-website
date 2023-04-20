@@ -1,10 +1,9 @@
-# matric upgrade registration system
-
-Final year ISTN (Info Sys & Tech) Major Project ([**screenshots**](#some-screenshots))
+# Matric upgrade registration system
 
 A matric upgrade registration system
 
 # Guidelines
+
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2019%7C2022-purple)
  ![Framework Version](https://img.shields.io/badge/.Net%20Framework-4.8-blue)
 
