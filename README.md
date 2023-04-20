@@ -1,4 +1,4 @@
-# Major Project (Milestone 3 & 4) -> [1 & 2](https://github.com/MpiloNtombela/MajorProject-Admin-FES)
+# matric upgrade registration system
 
 Final year ISTN (Info Sys & Tech) Major Project ([**screenshots**](#some-screenshots))
 
