@@ -85,9 +85,5 @@ This project comes in two parts
 ![147423133-2dd0a1a7-6973-4464-99b7-948af9258741](https://user-images.githubusercontent.com/62145841/233223760-b479301b-3194-4319-bb52-8bba1af2a42e.png)
 
 
-##### Admin
-
-![dash](https://user-images.githubusercontent.com/72506370/147423133-2dd0a1a7-6973-4464-99b7-948af9258741.png)
-![students](https://user-images.githubusercontent.com/72506370/147423135-b07e95be-9b57-443a-8877-23b5adb00149.png)
 
 
