@@ -55,33 +55,21 @@ This project comes in two parts
   > ![VSbuildError](https://user-images.githubusercontent.com/72506370/147419914-58f73534-83cd-4460-a9bf-bf6f1b6472fd.png)
   > Cleaning and Rebuilding solution usually fix the error. Also refer to [SO solution](https://stackoverflow.com/questions/32780315/could-not-find-a-part-of-the-path-bin-roslyn-csc-exe)
 
-- ###### User Secrets file
-  
-  - For phone number validation the project uses [Twilio sms API](https://www.twilio.com/sms) and credetial for twilio are stored in the [User Secrets](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-6.0&tabs=windows#manage-user-secrets-with-visual-studio) file
-  
-  *`sort of like this`*
-  ![user secrets](https://user-images.githubusercontent.com/72506370/143964980-dfce0383-a1e9-45bd-b7d9-d506ab208e3f.png)
-
-- Important note ⚡
-  
-  > Note: accounts created on the website default to `student` role. To create `admin` role accounts use [this application](https://github.com/MpiloNtombela/MajorProject-Admin-FES) ,a 'sort of' internal Winform Application to be used Admins. It work hand-in-hand with the site
 
 ## Some noticable improvements that could be made
 
 - This project may not have the best database design😁, so definatly start with Database Table Relationships (Foriegn Keys)
-- Add support Email verification/confirmation 📧✔ after signup (intergration with [Identiy Framework](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/security/create-a-secure-aspnet-web-forms-app-with-user-registration-email-confirmation-and-password-reset)
-- Notification system was kinda impletemented in give or take 3hrs to deadline🤧 so yeah😑😬 it uses Polling🥵, which is definently not the best or effient solution. Improvements to it may include replacing Polling with Websockets using *[SignalR](https://dotnet.microsoft.com/apps/aspnet/signalr)*
-- Removing Some redundant Interfaces
-- Add Role management (CRUD) interface to be used by admin
 - Add Teacher's portal (to manage upgrade marks for students)
 
 
 ### Some screenshots
 
-
 ![147422999-c9f1fdd4-ba52-470f-8f9a-e1c4c958d726](https://user-images.githubusercontent.com/62145841/233223729-82377402-cb0f-436b-b806-3501b053c837.png)
+
 ![147423028-2228c2b7-110f-4638-a129-a167e129301c](https://user-images.githubusercontent.com/62145841/233223746-af49603c-a06c-4587-9f44-c73e04b8c5ee.png)
+
 ![147423054-e42fc809-7fbe-4d47-8a08-e448b60d5eb3](https://user-images.githubusercontent.com/62145841/233223751-8a0dd4a5-05c2-4e19-b730-195ff20f3601.png)
+
 ![147423133-2dd0a1a7-6973-4464-99b7-948af9258741](https://user-images.githubusercontent.com/62145841/233223760-b479301b-3194-4319-bb52-8bba1af2a42e.png)
 
 
