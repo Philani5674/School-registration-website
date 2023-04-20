@@ -1,7 +1,5 @@
 # Matric upgrade registration system
 
-A matric upgrade registration system
-
 # Guidelines
 
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2019%7C2022-purple)
